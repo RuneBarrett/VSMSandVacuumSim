@@ -1,6 +1,6 @@
 ## VSMSandVacuumSim
 
-[See a youtube video of the project in action.](https://www.youtube.com/watch?v=cdFiDw6Ungw)
+[Watch a youtube video of the project in action.](https://www.youtube.com/watch?v=cdFiDw6Ungw)
 #
 **HoriKinectToVertiMouse**
 
