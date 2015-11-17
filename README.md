@@ -1,7 +1,7 @@
 ## VSMSandVacuumSim
 
-#[See a youtube video of the project in action.](https://www.youtube.com/watch?v=cdFiDw6Ungw)
-
+[See a youtube video of the project in action.](https://www.youtube.com/watch?v=cdFiDw6Ungw)
+#
 **HoriKinectToVertiMouse**
 
   This is the main class. Input from kinect and computer, sound and reset are handled here, as well as calling the other          classes.
